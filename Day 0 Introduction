@@ -1,11 +1,5 @@
-# 30-DAYS-OF-DEVOPS
-
-### Click Below link for youtube video
-[![Watch the video](https://img.youtube.com/vi/9q1DnI8MoIE/maxresdefault.jpg)](https://www.youtube.com/watch?v=9q1DnI8MoIE)
-
-## Day 1-5: Introduction to DevOps 🔄
-
-Day 1: 🔄 DevOps explained - Overview of DevOps principles, culture, and benefits. 
+Day 1-5: Introduction to DevOps 🔄
+Day 1: 🔄 DevOps explained - Overview of DevOps principles, culture, and benefits.
 
 Day 2: 📦 Introduction to Maven - Understanding Maven's role in build automation and dependency management.
 
@@ -15,8 +9,7 @@ Day 4: 🚀 Jenkins - Setting up Jenkins, a leading open-source automation serve
 
 Day 5: 🎯 SonarQube - Introduction to SonarQube for code quality analysis and continuous inspection.
 
-## Day 6-10: Security and Artifacts Management 🛡️
-
+Day 6-10: Security and Artifacts Management 🛡️
 Day 6: 🧪 OWASP Dependency Check - Understanding how to use OWASP Dependency Check to identify vulnerabilities in project dependencies.
 
 Day 7: 🗃️ Artifacts and Repository Management - Introduction to the concept of artifacts, along with using Nexus as a repository manager.
@@ -27,8 +20,7 @@ Day 9: 📄 YAML - Learning YAML syntax for defining configuration files used in
 
 Day 10: ⚓ Kubernetes - Introduction to Kubernetes for container orchestration and managing containerized applications.
 
-## Day 11-15: Azure DevOps 🌐
-
+Day 11-15: Azure DevOps 🌐
 Day 11: 🌐 Azure DevOps - Overview of Azure DevOps, a comprehensive DevOps platform provided by Microsoft.
 
 Day 12: 📊 Azure Pipelines - Configuring pipelines in Azure DevOps for continuous integration and delivery.
@@ -37,11 +29,9 @@ Day 13: 🎨 Azure Artifacts - Managing packages and artifacts in Azure DevOps f
 
 Day 14: 📦 Azure Container Registry (ACR) - Understanding how to use ACR for storing and managing Docker container images.
 
-
 Day 15: ⛵ Azure Kubernetes Service (AKS) - Deploying and managing Kubernetes clusters in Azure using AKS.
 
-## Day 16-20: Infrastructure as Code 🎭
-
+Day 16-20: Infrastructure as Code 🎭
 Day 16: 🎭 Ansible - Introduction to Ansible for configuration management and automation of IT infrastructure.
 
 Day 17: 🏗️ Terraform - Learning Terraform for infrastructure provisioning and management as code.
@@ -52,8 +42,7 @@ Day 19: 🏗️ Azure DevOps and Terraform - Integrating Terraform with Azure De
 
 Day 20: Infrastructure as Code Best Practices - Exploring best practices for infrastructure automation, versioning, and collaboration.
 
-## Day 21-25: Advanced DevOps Concepts (Not finalized)
-
+Day 21-25: Advanced DevOps Concepts (Not finalized)
 Day 21: Continuous Monitoring - Introduction to monitoring tools and practices for proactive system monitoring.
 
 Day 22: Log Management - Understanding log aggregation and analysis using tools like ELK stack.
@@ -64,8 +53,7 @@ Day 24: Serverless Computing - Introduction to serverless architecture and Azure
 
 Day 25: Cloud-native Architecture - Understanding the principles and patterns of building applications for cloud environments.
 
-## Day 26-30: DevOps Best Practices and Case Studies (Not finalized)
-
+Day 26-30: DevOps Best Practices and Case Studies (Not finalized)
 Day 26: Continuous Testing - Integrating automated testing into the CI/CD pipeline for faster feedback.
 
 Day 27: Release Management - Best practices for managing software releases and deployment strategies.
