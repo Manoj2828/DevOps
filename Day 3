@@ -8,7 +8,7 @@ Watch the video
 
 Real World Scenario
 One real-world scenario where Apache Tomcat is commonly used is in the deployment of enterprise web applications. Let's consider an example of an e-commerce website.
-
+ 
 Development: The development team builds a Java-based e-commerce web application using servlets and JSPs. They use Apache Tomcat as the target runtime environment during development, allowing them to test and debug the application locally.
 
 Testing: Testers can deploy the application on a dedicated Tomcat server or use a shared Tomcat instance for testing purposes.
