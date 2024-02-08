@@ -53,6 +53,8 @@ sudo systemctl status jenkins
 
 ### **--- INSTALL JENKINS ON LINUX METHOD -2 ---**
 
+refer Site : https://www.jenkins.io/doc/book/installing/ 
+
 ```shell
 sudo apt update -y
 sudo apt install openjdk-11-jre -y
