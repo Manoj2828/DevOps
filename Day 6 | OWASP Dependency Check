@@ -1,5 +1,4 @@
 
-
 # DAY-6 | OWASP Dependency Check
 
 OWASP Dependency Check is a software composition analysis (SCA) tool that identifies project dependencies with known vulnerabilities. It helps developers and security professionals identify and mitigate potential risks associated with using vulnerable libraries and components.
